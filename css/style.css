@@ -93,6 +93,7 @@ input {
 	border: 2px solid rgb(111, 157, 220);
 	border-radius: 3px;
 	outline: none;
+	
 }
 
 input:focus {
@@ -104,7 +105,10 @@ input:focus {
 input[type="checkbox"],
 input[type="radio"] {
 	display: inline-block;
+	
 }
+
+
 
 button {
 	color: #fff;
